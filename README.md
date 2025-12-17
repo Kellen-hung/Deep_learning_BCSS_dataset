@@ -12,3 +12,9 @@ Training result  on 224 size
 
 [UNET++ 224] Training result on 224 size 
 <img width="1143" height="442" alt="Unet++_224" src="https://github.com/user-attachments/assets/d897f431-ef68-4c13-ab07-6cdfabeed263" />
+
+[UNET 512] Training result on 512 size 
+<img width="4464" height="3564" alt="image" src="https://github.com/user-attachments/assets/4ececea5-2640-4e50-b6d1-a98da8f8079f" />
+
+[UNET 224] Training result on 512 size
+<img width="4464" height="3564" alt="image" src="https://github.com/user-attachments/assets/18640823-ad18-4474-a857-ff3ba2012f04" />
